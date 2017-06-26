@@ -1,5 +1,7 @@
 //For command line git tutorial
 //Local repository modification
+//Github modification
+
 
 public class Hello{
 
@@ -8,5 +10,6 @@ public class Hello{
   	System.out.println("Hello world2");
 	System.out.println("Tell your world");
 	System.out.println("Tell her world");
+
   }
 }
