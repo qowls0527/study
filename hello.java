@@ -6,9 +6,7 @@ public class Hello{
   	System.out.println("Hello world2");
 	System.out.println("Tell your world");
 <<<<<<< HEAD
-	System.out.println("So What");
-	System.out.println("Tell her world");
-=======
+	=====
 	System.out.println("Tell her world");
 >>>>>>> hotfix
   }
